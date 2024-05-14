@@ -1,0 +1,53 @@
+
+.card {
+    border: 1px solid #762828;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    max-width: 250px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 2px rgba(20,20,20,0.4);
+    
+}
+.h1{
+    text-decoration-color: coral;
+}
+
+.hero {
+    background-image: url('hero-background.jpg'); /* Add the path to your hero image */
+    background-size: cover;
+    color: #171111;
+    text-align: center;
+    padding: 100px 0px 0px 0px;
+}
+
+.hero h2 {
+    
+}
+
+.hero p {
+    
+}
+
+
+
+.card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.card h3 {
+    margin: 10px 0;
+}
+
+.card p {
+    margin: 10px 0;
+}
+footer {
+    background-color: #333;
+    color: hsl(0, 18%, 97%);
+    text-align: center;
+    padding: 10px 0;
+}
